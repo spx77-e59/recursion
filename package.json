@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "nodemon fibonacci.js"
+    "start": "nodemon mergeSort.js"
   },
   "dependencies": {
     "nodemon": "^3.1.7"
